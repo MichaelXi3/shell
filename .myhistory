@@ -1,0 +1,20 @@
+ls
+history
+ls
+history
+history
+history
+history
+exit
+exit
+ls
+history
+ls -al | wc
+ls -al | wc -l
+ls -al | wc -l|sleep 18 &
+ls
+exit
+help
+exit
+help
+exit

@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "read_command.h": "c",
+        "parse_command.h": "c",
+        "execute_command.h": "c",
+        "stdio.h": "c"
+    }
+}
