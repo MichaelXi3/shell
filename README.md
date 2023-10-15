@@ -1,10 +1,7 @@
 # Shell Description
 
- /\ /\
-( o.o )
- > ^ < 
 Hello!!! Welcome to Michael's Shell.
------------------------------------------------------ 
+------------------------------------
  - Type 'exit' to exit the shell 
  - Type command names and args to execute the command 
  - Use '|' to pipe as many commands as you want 
@@ -29,6 +26,7 @@ make clean
 
 # Project Structure
 
+```
 ├── [ 211]  Makefile
 ├── [4.5K]  builtin_functions.c
 ├── [ 509]  builtin_functions.h
@@ -40,3 +38,4 @@ make clean
 ├── [ 185]  parse_command.h
 ├── [ 790]  read_command.c
 └── [ 103]  read_command.h
+```
