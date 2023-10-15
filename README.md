@@ -1,14 +1,13 @@
 # Shell Description
 
 Hello!!! Welcome to Michael's Shell.
-------------------------------------
- - Type 'exit' to exit the shell 
- - Type command names and args to execute the command 
- - Use '|' to pipe as many commands as you want 
- - To erase history, type 'erase history' 
- - To check recent history, type 'history 4 (or any number)' 
- - The size of history file is set in default 1000 or by env_var MAX_HISTORY' 
- - Built functions: help, exit, history
+- Type `exit` to exit the shell 
+- Type command names and args to execute the command 
+- Use `|` to pipe as many commands as you want 
+- To erase history, type `erase history`
+- To check recent history, type `history 4` (or any number) 
+- The size of history file is set in default 1000 or by env_var `MAX_HISTORY`
+- Built functions: `help`, `exit`, `history`
 
 # Build Instructions
 
